@@ -1,0 +1,30 @@
+h1 {
+  font-weight: bolder;
+}
+
+h2 {
+font-weight: bold;
+text-decoration :underline ;
+}
+
+h3{
+    font-family: cursive;
+}
+
+body {
+  background: linear-gradient(yellow,orange);
+}
+
+hr {
+width: 20%;
+color: black;
+line-height: 2;
+background-color: black;
+border: 2px solid black;
+}
+
+#camera,#result {
+  border: 2px solid black;
+  width: 350px;
+  height: 300px;
+}
